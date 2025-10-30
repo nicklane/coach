@@ -55,7 +55,7 @@ Creating a React Native app for tracking game time and bench time for players on
      }, []);
 
      useEffect(() => {
-       const savePlayers = async () => {
+       const savePlayers =d async () => {
          await AsyncStorage.setItem('players', JSON.stringify(players));
        };
        savePlayers();

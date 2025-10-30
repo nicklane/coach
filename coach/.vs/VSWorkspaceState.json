@@ -3,11 +3,10 @@
     "",
     "\\app",
     "\\app\\(tabs)",
-    "\\assets",
     "\\components",
     "\\constants",
-    "\\hooks"
+    "\\scripts"
   ],
-  "SelectedNode": "\\newstuff.txt",
+  "SelectedNode": "\\app\\(tabs)\\index.tsx",
   "PreviewInSolutionExplorer": false
 }
